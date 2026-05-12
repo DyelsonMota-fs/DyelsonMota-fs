@@ -1,34 +1,44 @@
-# Olá, eu sou Dyelson Mota 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Olá, eu sou Dyelson Mota
 
-Sou desenvolvedor em formação, com foco em desenvolvimento Frontend. Tenho experiência com tecnologias modernas como React, Next.js, TypeScript, Tailwind CSS e construção de interfaces web responsivas, modernas e funcionais.
+<div align="center">
 
-Atualmente estou direcionando meus estudos e projetos para me tornar um desenvolvedor Frontend cada vez mais sólido, buscando criar aplicações com boa experiência de usuário, código organizado e interfaces bem estruturadas.
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+Frontend+em+formação;Construindo+interfaces+modernas+e+responsivas;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Transformando+ideias+em+experiências+digitais" />
 
----
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante de Ciência da Computação
-- 💻 Foco em desenvolvimento Frontend
-- ⚛️ Estudando e criando projetos com React, Next.js e TypeScript
-- 🎨 Interesse em interfaces modernas, responsivas e bem construídas
-- 📚 Em constante evolução como desenvolvedor
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 👨‍💻 Sobre mim
 
-<div align="left">
+Sou um desenvolvedor em formação com foco em **Frontend**, apaixonado por criar interfaces modernas, responsivas e bem estruturadas.
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+Tenho direcionado meus estudos e projetos para o ecossistema **React**, **Next.js**, **TypeScript** e **Tailwind CSS**, buscando evoluir cada vez mais na criação de aplicações web com boa experiência de usuário, organização de código e atenção aos detalhes visuais.
+
+Atualmente, meu foco é me tornar um desenvolvedor Frontend sólido, criando projetos reais e aprimorando minhas habilidades técnicas todos os dias.
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,prisma,postgres,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🎯 Foco atual
+
+<div align="center">
+
+| Área | Tecnologias |
+|---|---|
+| Frontend | React, Next.js, TypeScript |
+| Estilização | Tailwind CSS, shadcn/ui |
+| UI/UX | Interfaces modernas e responsivas |
+| Back-end de apoio | Node.js, Prisma, PostgreSQL |
+| Boas práticas | Componentização, organização e performance |
 
 </div>
 
@@ -36,27 +46,52 @@ Atualmente estou direcionando meus estudos e projetos para me tornar um desenvol
 
 ## 📌 Projetos em destaque
 
-### 🩺 Doutor Agenda
+<div align="center">
 
-Sistema web para gestão de consultas médicas, com cadastro de pacientes e médicos, agendamento de consultas, dashboard interativa, autenticação tradicional e login via Google.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🩺 Doutor Agenda</h3>
+      <p align="center">
+        Sistema web para gestão de consultas médicas, com cadastro de pacientes e médicos, agendamento de consultas, dashboard interativa e autenticação.
+      </p>
+      <p align="center">
+        <strong>Next.js • TypeScript • Tailwind CSS • shadcn/ui • Drizzle ORM • PostgreSQL</strong>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🥟 Self-Checkout</h3>
+      <p align="center">
+        Aplicação web que simula um totem de autoatendimento, com categorias, produtos, carrinho, finalização de pedido e consulta por CPF.
+      </p>
+      <p align="center">
+        <strong>Next.js • React • TypeScript • Prisma • Zod • Tailwind CSS</strong>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌍 Countries App</h3>
+      <p align="center">
+        Aplicação web para listagem e consulta de países, com foco em consumo de API, componentização e responsividade.
+      </p>
+      <p align="center">
+        <strong>Next.js • React • TypeScript</strong>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💼 Portfólio Profissional</h3>
+      <p align="center">
+        Site pessoal para apresentar minha trajetória, habilidades, projetos e formas de contato de maneira moderna e objetiva.
+      </p>
+      <p align="center">
+        <strong>Next.js • Tailwind CSS • TypeScript</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Tecnologias:** Next.js, TypeScript, Tailwind CSS, shadcn/ui, BetterAuth, Drizzle ORM e PostgreSQL.
-
----
-
-### 🥟 Self-Checkout — Sendai Pastéis
-
-Aplicação web que simula um totem de self-checkout, permitindo escolher método de consumo, navegar por categorias e produtos, gerenciar carrinho e finalizar pedidos com validação de dados.
-
-**Tecnologias:** Next.js, React, TypeScript, Prisma, Tailwind CSS, shadcn/ui, Zod e Server Actions.
-
----
-
-### 🌍 Countries App
-
-Aplicação web para listagem e consulta de países, com foco em consumo de API, componentização, responsividade e organização de interface.
-
-**Tecnologias:** Next.js, React e TypeScript.
+</div>
 
 ---
 
@@ -64,26 +99,78 @@ Aplicação web para listagem e consulta de países, com foco em consumo de API,
 
 <div align="center">
 
-![Dyelson GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark)
-
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dyelson-mota-0bb902294/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:SEU-EMAIL)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## ✨ Objetivo
+## 🔥 Sequência de contribuições
 
-Meu objetivo é evoluir constantemente como desenvolvedor Frontend, construindo projetos reais, melhorando minha base técnica e criando soluções que unam tecnologia, usabilidade e boa experiência para o usuário.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dyelson-mota-0bb902294/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
+
+<a href="https://github.com/SEU-USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="mailto:SEU-EMAIL">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+---
+
+## ✨ Minha mentalidade
+
+<div align="center">
+
+> “O inverno nunca falha em se tornar primavera.”
+
+</div>
+
+Acredito que evolução vem da constância. Cada projeto, estudo e desafio faz parte do processo de me tornar um profissional melhor.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" />
+
+</div>
