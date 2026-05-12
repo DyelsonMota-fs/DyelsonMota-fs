@@ -88,8 +88,6 @@ Atualmente, meu foco é me tornar um desenvolvedor Frontend sólido, criando pro
 
 ## 🐍 Contribuições
 
-## 🐍 Contribuições
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/DyelsonMota-fs/DyelsonMota-fs/output/snake-dark.svg" alt="Snake animation" />
