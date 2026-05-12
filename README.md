@@ -79,15 +79,6 @@ Atualmente, meu foco é me tornar um desenvolvedor Frontend sólido, criando pro
         <strong>Next.js • React • TypeScript</strong>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🚧 Em evolução</h3>
-      <p align="center">
-        Novos projetos estão sendo desenvolvidos com foco em interfaces modernas, boas práticas de código e experiência do usuário.
-      </p>
-      <p align="center">
-        <strong>Frontend • UI • Componentização • Performance</strong>
-      </p>
-    </td>
   </tr>
 </table>
 
