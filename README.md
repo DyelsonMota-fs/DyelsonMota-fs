@@ -80,48 +80,16 @@ Atualmente, meu foco é me tornar um desenvolvedor Frontend sólido, criando pro
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💼 Portfólio Profissional</h3>
+      <h3 align="center">🚧 Em evolução</h3>
       <p align="center">
-        Site pessoal para apresentar minha trajetória, habilidades, projetos e formas de contato de maneira moderna e objetiva.
+        Novos projetos estão sendo desenvolvidos com foco em interfaces modernas, boas práticas de código e experiência do usuário.
       </p>
       <p align="center">
-        <strong>Next.js • Tailwind CSS • TypeScript</strong>
+        <strong>Frontend • UI • Componentização • Performance</strong>
       </p>
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
