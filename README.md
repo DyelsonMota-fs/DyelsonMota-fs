@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Dyelson%20Mota&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20Full%20Stack&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=DyelsonMota-fs">
-    <img src="https://komarev.com/ghpvc/?username=DyelsonMota-fs&label=Profile%20views&color=00FFFF&style=flat-square" alt="DyelsonMota-fs's profile views" />
-  </a>
-</p>
-
 
 ## 📌 About Me
 - 💻 Desenvolvedor apaixonado por tecnologia e desenvolvimento de software.
@@ -39,9 +33,3 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
